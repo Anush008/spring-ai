@@ -18,7 +18,6 @@ package org.springframework.ai.azure.openai;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.Objects;
 
 import com.azure.ai.openai.OpenAIClient;
 import com.azure.ai.openai.models.ChatChoice;
